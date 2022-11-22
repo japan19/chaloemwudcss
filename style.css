@@ -74,6 +74,7 @@ div{
     text-align: center;
     margin: 0;
     padding: 0;
+    clear: left;
 }
 .nav li{
     display: inline-block;
